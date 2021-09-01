@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcus\\source\\repos\\Random\\PageDownloader\\PageDownloader\\PageDownloader.csproj",
+      "projectUniqueName": "C:\\Users\\Marcus\\source\\repos\\Random\\PageDownloader\\PageDownloader.csproj",
       "projectName": "PageDownloader",
-      "projectPath": "C:\\Users\\Marcus\\source\\repos\\Random\\PageDownloader\\PageDownloader\\PageDownloader.csproj",
+      "projectPath": "C:\\Users\\Marcus\\source\\repos\\Random\\PageDownloader\\PageDownloader.csproj",
       "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcus\\source\\repos\\Random\\PageDownloader\\PageDownloader\\obj\\",
+      "outputPath": "C:\\Users\\Marcus\\source\\repos\\Random\\PageDownloader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
