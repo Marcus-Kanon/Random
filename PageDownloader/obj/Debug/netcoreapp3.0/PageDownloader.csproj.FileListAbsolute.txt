@@ -1,0 +1,10 @@
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\netcoreapp3.0\PageDownloader.deps.json
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\netcoreapp3.0\PageDownloader.dll
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\netcoreapp3.0\PageDownloader.pdb
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\netcoreapp3.0\PageDownloader.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\netcoreapp3.0\PageDownloader.csproj.ResolveComReference.cache
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\netcoreapp3.0\PageDownloader.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\netcoreapp3.0\PageDownloader.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\netcoreapp3.0\PageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\netcoreapp3.0\PageDownloader.dll
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\netcoreapp3.0\PageDownloader.pdb

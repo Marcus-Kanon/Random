@@ -1,0 +1,16 @@
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\net5.0-windows\PageDownloader.exe
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\net5.0-windows\PageDownloader.deps.json
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\net5.0-windows\PageDownloader.runtimeconfig.json
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\net5.0-windows\PageDownloader.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\net5.0-windows\PageDownloader.dll
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\net5.0-windows\ref\PageDownloader.dll
+C:\Users\Marcus\source\repos\Random\PageDownloader\bin\Debug\net5.0-windows\PageDownloader.pdb
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\net5.0-windows\PageDownloader.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\net5.0-windows\PageDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\net5.0-windows\PageDownloader.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\net5.0-windows\PageDownloader.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\net5.0-windows\PageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\net5.0-windows\PageDownloader.dll
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\net5.0-windows\ref\PageDownloader.dll
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\net5.0-windows\PageDownloader.pdb
+C:\Users\Marcus\source\repos\Random\PageDownloader\obj\Debug\net5.0-windows\PageDownloader.genruntimeconfig.cache
